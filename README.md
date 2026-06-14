@@ -6,8 +6,6 @@ This project analyzes customer shopping behavior using transactional retail data
 
 The project follows a complete analytics workflow, including data cleaning, exploratory data analysis, SQL-based business analysis, dashboard development, and reporting.
 
-<img width="1127" height="617" alt="Screenshot 2026-06-13 193631" src="https://github.com/user-attachments/assets/049aa081-d4c1-457c-a92f-46327fcb913e" />
-
 ---
 
 ## Objective
@@ -194,7 +192,7 @@ customer-shopping-behavior-analysis/
 ├── notebooks/
 ├── sql/
 ├── dashboard/
-├── reports/
+├── report/
 ├── presentation/
 ├── README.md
 └── requirements.txt
@@ -220,8 +218,9 @@ customer-shopping-behavior-analysis/
 
 ## Author
 
-Chandru
+Chandru P
 
 B.Tech Metallurgical & Materials Engineering
+National Institute of Technology, Tiruchirapalli
 
 Aspiring Data Analyst with interests in Business Intelligence, Data Visualization, and Analytics.
