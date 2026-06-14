@@ -220,7 +220,6 @@ customer-shopping-behavior-analysis/
 
 Chandru P
 
+National Institute of Technology, Tiruchirapalli. 
 B.Tech Metallurgical & Materials Engineering
-National Institute of Technology, Tiruchirapalli
-
 Aspiring Data Analyst with interests in Business Intelligence, Data Visualization, and Analytics.
