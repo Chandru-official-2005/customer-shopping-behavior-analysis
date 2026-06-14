@@ -6,6 +6,8 @@ This project analyzes customer shopping behavior using transactional retail data
 
 The project follows a complete analytics workflow, including data cleaning, exploratory data analysis, SQL-based business analysis, dashboard development, and reporting.
 
+<img width="1127" height="617" alt="Screenshot 2026-06-13 193631" src="https://github.com/user-attachments/assets/049aa081-d4c1-457c-a92f-46327fcb913e" />
+
 ---
 
 ## Objective
